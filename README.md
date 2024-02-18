@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harish.</h1>
 <h3 align="center">A passionate web developer from India</h3>
-<a href="https://ibb.co/GpGxnwh"><img src="https://i.ibb.co/dMXWj9h/n8agw6z2smyb1.gif" alt="n8agw6z2smyb1" border="0"></a>
+<img src="https://miro.medium.com/v2/resize:fit:996/1*xNQKHj5vR7w9AcY_bDKYYw.gif"></img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harish&label=Profile%20views&color=0e75b6&style=flat" alt="harish" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harish" width="600" alt="harish" /></a> </p>
