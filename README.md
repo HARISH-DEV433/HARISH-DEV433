@@ -1,8 +1,6 @@
-[![MasterHead]<div class="tenor-gif-embed" data-postid="17761682" data-share-method="host" data-aspect-ratio="2" data-width="100%"><a href="https://tenor.com/view/coding-kira-lena-urzendowsky-how-to-sell-drugs-online-fast-hacking-gif-17761682">Coding Kira GIF</a>from <a href="https://tenor.com/search/coding-gifs"></a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>]
 <h1 align="center">Hi 👋, I'm Harish.</h1>
 <h3 align="center">A passionate web developer from India</h3>
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC"></a></p>
-
+<img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC"></img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harish&label=Profile%20views&color=0e75b6&style=flat" alt="harish" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harish" alt="harish" /></a> </p>
