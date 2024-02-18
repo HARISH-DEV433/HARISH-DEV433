@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harish.</h1>
 <h3 align="center">A passionate web developer from India</h3>
-![github](/images/icon.png)
+![github](/images/coding-kira.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harish&label=Profile%20views&color=0e75b6&style=flat" alt="harish" /> </p>
 
