@@ -3,7 +3,7 @@
 <a href="https://ibb.co/GpGxnwh"><img src="https://i.ibb.co/dMXWj9h/n8agw6z2smyb1.gif" alt="n8agw6z2smyb1" border="0"></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harish&label=Profile%20views&color=0e75b6&style=flat" alt="harish" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harish" alt="harish" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harish" width="600" alt="harish" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/harish" target="blank"><img src="https://img.shields.io/twitter/follow/harish?logo=twitter&style=for-the-badge" alt="harish" /></a> </p>
 
