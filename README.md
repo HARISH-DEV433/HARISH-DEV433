@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **MERN, PYTHON**
 
-- 📫 How to reach me **harishdev404error@gmail.com**
+- 📫 How to reach me **harishkannan.unique@gmail.com**
 
 - ⚡ Fun fact **Coders and bugs shares the best relationship in the world😁**
 
